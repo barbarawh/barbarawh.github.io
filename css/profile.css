@@ -4,20 +4,60 @@
 
 
 .navbar-brand {
-	color: black;
+	color: white !important;
+	font-size: 30px;
+
+	
+
+}
+
+.nav-link {
+	color: white;
+	font-family: 'Arsenal', sans-serif;
+	font-size: 30px;
 }
 
 .display-3 {
-	color: white;
+	color: white !important;
+	font-family: 'Arsenal', sans-serif;
+	font-size: 90px;
+	font-weight: bold;
+
+}
+
+.display-1 {
+	color: white !important;
+	font-family: 'Arsenal', sans-serif;
+	font-size: 35px;	
+}
+
+
+.card-title {
+	font-weight: bold;
+}
+
+.lead {
+	#cccccc;
+}
+
+
+.profile-body {
+	background-image:url("../img/goth.jpg");
+	background-size: cover;
+	height: 100%;
+	font-family: 'Arsenal', sans-serif;
+
+
 }
 
 .card {
 	border: solid #cccccc 1px;
+	background-color: white;
 	border-radius:4px;
 	padding: 10px;
 	margin-bottom: 10px;
 	background-color:; 
-	box-shadow:10px 10px 5px #cccccc;
+	box-shadow:5px 5px 5px #cccccc;
 }
 
 .card-footer {
@@ -26,11 +66,28 @@
 }
 
 .card-text {
+	text-align: justify;
 
 }
 
 .navbar {
-	background-color:;
+	background-color: #cccccc;
+}
+
+.navbar-fix {
+	margin: 0%;
+}
+
+.navbar-brand {
+	font-family: 'Arsenal', sans-serif;
+	font-size: 50px;
+	color: white;
+
+}
+
+.btn {
+	font-family: 'Arsenal', sans-serif;
+	font-size: 35px;
 }
 
 .jumbotron {
@@ -39,8 +96,13 @@
 	height: 100%;
 }
 
-
-
+.mybutton{
+	background:none;
+	border: none;
+	height: 50px;
+	width: 150px;
+	font-family: 'Arsenal', sans-serif;
+}
 
 
 /*this is a comment*/
