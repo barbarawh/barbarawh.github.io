@@ -1,0 +1,47 @@
+.profile-pic {
+	max-width: 50%; 
+}
+
+
+.navbar-brand {
+	color: black;
+}
+
+.display-3 {
+	color: white;
+}
+
+.card {
+	border: solid #cccccc 1px;
+	border-radius:4px;
+	padding: 10px;
+	margin-bottom: 10px;
+	background-color:; 
+	box-shadow:10px 10px 5px #cccccc;
+}
+
+.card-footer {
+
+
+}
+
+.card-text {
+
+}
+
+.navbar {
+	background-color:;
+}
+
+.jumbotron {
+	background-image:url("../img/goth.jpg");
+	background-size: cover;
+	height: 100%;
+}
+
+
+
+
+
+/*this is a comment*/
+/* shift+cmd+7*/
